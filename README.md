@@ -1,2 +1,1 @@
-# Farm-School
-C# project
+# Farm School
